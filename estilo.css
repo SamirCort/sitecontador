@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Madimi+One&family=Noto+Sans+Glagolitic&display=swap')
+
+:root{
+    --cor-de-fundo: #B658FF;
+    --cor-do-texto-padrão: #FFFFFF;
+    --cor-do-texto-diferente: #00E0FF;
+}
+
+
+
+.titulo{
+    font-size: 300%;
+}
+
+.imagem{
+    size: 1000%;
+}
+.principal-botao{
+
+}
+.conteudo-principal{
+    
+}
